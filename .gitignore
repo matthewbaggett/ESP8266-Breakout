@@ -1,0 +1,4 @@
+*.s#*
+*.b#*
+.~lock.*
+eagle.epf
