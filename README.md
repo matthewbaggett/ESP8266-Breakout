@@ -4,3 +4,7 @@ Originally just a ESP8266 broken out onto a 22pin DIP header, has become an ESP8
 
 ![alt text](https://raw.githubusercontent.com/matthewbaggett/ESP8266-Breakout/master/breakout.brd.png)
 ![alt text](https://raw.githubusercontent.com/matthewbaggett/ESP8266-Breakout/master/breakout.sch.png)
+
+# Licence
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
