@@ -543,13 +543,13 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <signal name="GPIO2">
 <contactref element="IC1" pad="19"/>
 </signal>
-<signal name="GPIO4">
+<signal name="SDA">
 <contactref element="IC1" pad="21"/>
 </signal>
 <signal name="TX">
 <contactref element="IC1" pad="24"/>
 </signal>
-<signal name="GPIO5">
+<signal name="SCL">
 <contactref element="IC1" pad="22"/>
 </signal>
 <signal name="GPIO0">

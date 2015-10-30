@@ -4919,7 +4919,7 @@ Standard 8.5x11 US Letter frame</description>
 <label x="5.08" y="116.84" size="1.778" layer="95"/>
 </segment>
 </net>
-<net name="GPIO4" class="0">
+<net name="SDA" class="0">
 <segment>
 <pinref part="IC1" gate="G$1" pin="21"/>
 <wire x1="2.54" y1="121.92" x2="17.78" y2="121.92" width="0.1524" layer="91"/>
@@ -4933,7 +4933,7 @@ Standard 8.5x11 US Letter frame</description>
 <label x="5.08" y="129.54" size="1.778" layer="95"/>
 </segment>
 </net>
-<net name="GPIO5" class="0">
+<net name="SCL" class="0">
 <segment>
 <pinref part="IC1" gate="G$1" pin="22"/>
 <wire x1="17.78" y1="124.46" x2="2.54" y2="124.46" width="0.1524" layer="91"/>
