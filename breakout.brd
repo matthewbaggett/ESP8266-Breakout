@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="7.5.0">
+<eagle version="7.4.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -1009,8 +1009,9 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <contactref element="MDL1" pad="21"/>
 <contactref element="IC1" pad="9"/>
 <wire x1="11.445" y1="8.255" x2="11.445" y2="10.4775" width="0.254" layer="1"/>
-<wire x1="11.445" y1="10.4775" x2="5.715" y2="10.4775" width="0.254" layer="1"/>
-<wire x1="5.715" y1="10.4775" x2="5.715" y2="9.36625" width="0.254" layer="1"/>
+<wire x1="11.445" y1="10.4775" x2="5.87375" y2="10.4775" width="0.254" layer="1"/>
+<wire x1="5.87375" y1="10.4775" x2="5.715" y2="10.31875" width="0.254" layer="1"/>
+<wire x1="5.715" y1="10.31875" x2="5.715" y2="9.36625" width="0.254" layer="1"/>
 <wire x1="5.715" y1="9.36625" x2="1.27" y2="9.36625" width="0.254" layer="1"/>
 <wire x1="1.27" y1="9.36625" x2="1.27" y2="9.8425" width="0.254" layer="1"/>
 </signal>
@@ -1247,35 +1248,35 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <approved hash="4,16,d4fa71a0c042eeb9"/>
 <approved hash="4,1,207fefa0e45c0e18"/>
 <approved hash="4,1,6bd3eb50fe4c42e4"/>
-<approved hash="4,1,0b46d02efad2223f"/>
+<approved hash="4,1,667aeba6fc5a541b"/>
 <approved hash="4,1,1d04e9eefe123dcd"/>
 <approved hash="4,1,012de76cf3902996"/>
 <approved hash="4,1,25d0e756f24a04e1"/>
-<approved hash="4,1,4f28eb66ff9a6fa9"/>
+<approved hash="4,1,0b46d02efad2223f"/>
 <approved hash="4,1,df09e9e4fa18ffca"/>
 <approved hash="4,1,5bf7e610f2cc73c0"/>
-<approved hash="4,1,667aeba6fc5a541b"/>
-<approved hash="4,1,c322eb36ffaaeb93"/>
 <approved hash="4,1,7141e834fee85872"/>
+<approved hash="4,1,c322eb36ffaaeb93"/>
+<approved hash="4,1,4f28eb66ff9a6fa9"/>
+<approved hash="4,1,3b8b93c664a6f286"/>
+<approved hash="4,1,928092a665465ab3"/>
+<approved hash="4,1,f98e93f668863cf9"/>
+<approved hash="4,1,d9d48b767fb60b87"/>
 <approved hash="4,1,e7699306673626d4"/>
 <approved hash="4,1,cdb7aaa65ff63962"/>
-<approved hash="4,1,f98e93f668863cf9"/>
+<approved hash="4,1,9fd3937667b64d8e"/>
+<approved hash="4,1,ad5c9ce667c668cf"/>
+<approved hash="4,1,8baa92c667e64325"/>
 <approved hash="4,1,216293366736e4dd"/>
 <approved hash="4,1,b78593f664f676f0"/>
-<approved hash="4,1,9fd3937667b64d8e"/>
-<approved hash="4,1,8baa92c667e64325"/>
-<approved hash="4,1,ad5c9ce667c668cf"/>
-<approved hash="4,1,928092a665465ab3"/>
-<approved hash="4,1,d9d48b767fb60b87"/>
 <approved hash="4,1,dcbd9aa6694618a8"/>
-<approved hash="4,1,3b8b93c664a6f286"/>
 <approved hash="4,16,207fefa0e45c0e18"/>
 <approved hash="4,16,6bd3eb50fe4c42e4"/>
 <approved hash="4,16,0b46d02efad2223f"/>
-<approved hash="4,16,1d04e9eefe123dcd"/>
+<approved hash="4,16,667aeba6fc5a541b"/>
 <approved hash="4,16,012de76cf3902996"/>
 <approved hash="4,16,25d0e756f24a04e1"/>
-<approved hash="4,16,667aeba6fc5a541b"/>
+<approved hash="4,16,1d04e9eefe123dcd"/>
 <approved hash="4,16,df09e9e4fa18ffca"/>
 <approved hash="4,16,5bf7e610f2cc73c0"/>
 <approved hash="4,16,7141e834fee85872"/>
@@ -1283,18 +1284,18 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <approved hash="4,16,4f28eb66ff9a6fa9"/>
 <approved hash="4,16,9ed0dd0b1fcf2fea"/>
 <approved hash="4,16,aca46b0b57d6179e"/>
-<approved hash="4,16,cdb7aaa65ff63962"/>
-<approved hash="4,16,9fd3937667b64d8e"/>
-<approved hash="4,16,b78593f664f676f0"/>
+<approved hash="4,16,e7699306673626d4"/>
+<approved hash="4,16,dcbd9aa6694618a8"/>
 <approved hash="4,16,3b8b93c664a6f286"/>
+<approved hash="4,16,d9d48b767fb60b87"/>
+<approved hash="4,16,f98e93f668863cf9"/>
+<approved hash="4,16,cdb7aaa65ff63962"/>
+<approved hash="4,16,216293366736e4dd"/>
 <approved hash="4,16,ad5c9ce667c668cf"/>
 <approved hash="4,16,8baa92c667e64325"/>
-<approved hash="4,16,f98e93f668863cf9"/>
-<approved hash="4,16,e7699306673626d4"/>
+<approved hash="4,16,b78593f664f676f0"/>
 <approved hash="4,16,928092a665465ab3"/>
-<approved hash="4,16,dcbd9aa6694618a8"/>
-<approved hash="4,16,216293366736e4dd"/>
-<approved hash="4,16,d9d48b767fb60b87"/>
+<approved hash="4,16,9fd3937667b64d8e"/>
 </errors>
 </board>
 </drawing>
