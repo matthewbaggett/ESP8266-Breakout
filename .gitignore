@@ -1,4 +1,6 @@
+*.pro
 *.s#*
 *.b#*
 .~lock.*
+*.lck
 eagle.epf
