@@ -8,7 +8,7 @@
 </settings>
 <grid distance="0.003125" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.025" altunitdist="inch" altunit="inch"/>
 <layers>
-<layer number="1" name="Top" color="4" fill="1" visible="no" active="yes"/>
+<layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="2" name="Route2" color="1" fill="3" visible="yes" active="yes"/>
 <layer number="3" name="Route3" color="4" fill="3" visible="no" active="yes"/>
 <layer number="14" name="Route14" color="1" fill="6" visible="no" active="yes"/>
@@ -151,11 +151,16 @@
 <board>
 <plain>
 <wire x1="0" y1="0" x2="25.3875" y2="0" width="0" layer="20"/>
-<wire x1="25.3875" y1="0" x2="25.3875" y2="32.375" width="0" layer="20"/>
-<wire x1="25.3875" y1="32.375" x2="0" y2="32.375" width="0" layer="20"/>
-<wire x1="0" y1="32.375" x2="0" y2="0" width="0" layer="20"/>
+<wire x1="25.3875" y1="0" x2="25.4" y2="32.385" width="0" layer="20"/>
+<wire x1="25.4" y1="32.385" x2="0" y2="32.385" width="0" layer="20"/>
+<wire x1="0" y1="32.385" x2="0" y2="0" width="0" layer="20"/>
 <text x="22.304375" y="9.2075" size="1.4224" layer="26" rot="MR0">git.io/vwtq7</text>
 <text x="22.304375" y="6.82625" size="1.4224" layer="26" rot="MR0">@matthewbaggett</text>
+<dimension x1="1.27" y1="30.1625" x2="24.13" y2="30.1625" x3="12.7" y3="38.25875" textsize="5.08" layer="150"/>
+<dimension x1="0" y1="0" x2="25.4" y2="0" x3="12.7" y3="-11.509375" textsize="5.08" layer="150"/>
+<dimension x1="25.3875" y1="0" x2="25.4" y2="32.385" x3="34.443565625" y3="16.18900625" textsize="5.08" layer="150"/>
+<dimension x1="1.27" y1="30.1625" x2="1.27" y2="27.6225" x3="-5.08" y3="28.8925" textsize="5.08" layer="150"/>
+<dimension x1="17.859375" y1="39.0525" x2="17.859375" y2="-1.42875" x3="46.273321875" y3="18.811875" textsize="5.08" layer="150"/>
 </plain>
 <libraries>
 <library name="ic-package">
