@@ -1882,7 +1882,6 @@ at 30/07/2012 17:45:58</description>
 </element>
 <element name="C6" library="SparkFun" package="PANASONIC_C" value="47uf" x="5.476875" y="3.33375" smashed="yes" rot="R90">
 <attribute name="NAME" x="8.57375" y="4.02875" size="0.8128" layer="25" rot="R270"/>
-<attribute name="VALUE" x="8.926875" y="0.73375" size="0.4064" layer="27" rot="R90"/>
 </element>
 <element name="Q1" library="adafruit" package="NX3225" value="12Mhz" x="18.25625" y="14.366875" rot="R315"/>
 <element name="U1" library="Texas Instruments_By_element14_Batch_1" package="SOIC127P600X175-8N" value="LM358DR" x="7.381875" y="28.495625" smashed="yes">
@@ -1898,9 +1897,15 @@ at 30/07/2012 17:45:58</description>
 <element name="R3" library="rcl" package="R0805" value="330Ohm" x="15.24" y="27.066875" smashed="yes" rot="R90">
 <attribute name="NAME" x="14.9225" y="25.55875" size="0.8128" layer="25" rot="R270"/>
 </element>
-<element name="TX" library="SparkFun-LED" package="LED-0603" value="yellow" x="15.24" y="30.718125"/>
-<element name="RX" library="SparkFun-LED" package="LED-0603" value="yellow" x="13.17625" y="30.718125"/>
-<element name="PWR" library="SparkFun-LED" package="LED-0603" value="red" x="17.30375" y="30.718125"/>
+<element name="TX" library="SparkFun-LED" package="LED-0603" value="yellow" x="15.24" y="30.718125" smashed="yes">
+<attribute name="NAME" x="14.5415" y="29.829125" size="0.4064" layer="25" rot="R90"/>
+</element>
+<element name="RX" library="SparkFun-LED" package="LED-0603" value="yellow" x="13.17625" y="30.718125" smashed="yes">
+<attribute name="NAME" x="12.47775" y="29.829125" size="0.4064" layer="25" rot="R90"/>
+</element>
+<element name="PWR" library="SparkFun-LED" package="LED-0603" value="red" x="17.30375" y="30.718125" smashed="yes">
+<attribute name="NAME" x="16.60525" y="29.829125" size="0.4064" layer="25" rot="R90"/>
+</element>
 </elements>
 <signals>
 <signal name="5V">
